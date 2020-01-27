@@ -18,7 +18,7 @@ Enter The Level : 2<br/>
   3     X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   4   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   5   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
-  6   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
+  6  (<-- two spaces) X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   7   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   8   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   9   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
