@@ -13,12 +13,12 @@ Choice The Level Of The Game ::<br/>
 Enter The Level : 2<br/>
   \   1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16<br/>
 <br/>
-  1     X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
-  2     X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
-  3     X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
+  1   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
+  2   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
+  3   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   4   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   5   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
-  6  (<-- two spaces) X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
+  6   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   7   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   8   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
   9   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X<br/>
