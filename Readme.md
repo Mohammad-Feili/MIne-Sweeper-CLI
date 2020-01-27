@@ -54,6 +54,5 @@ Enter : 1 1 C
   
   
   
-  
   The C mode is for Choice a entry and the F mode is for assign a flag to a entry that you guest that is bomb and U mode is 
   for removing the F from that entry.
