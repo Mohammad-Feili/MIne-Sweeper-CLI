@@ -9,10 +9,10 @@ Choice The Level Of The Game ::
 
 Enter The Level : 2
 
-  \   1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16
+  \   1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16\n
 
-  1   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
-  2   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+  1   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X\n
+  2   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X\n
   3   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
   4   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
   5   X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
