@@ -1,5 +1,5 @@
 from random import randint
- 
+  
 global board
 global external_board
 
