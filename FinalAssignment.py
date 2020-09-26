@@ -3,6 +3,7 @@ from random import randint
 global board
 global external_board
 
+
 # This Function Is For Generating Random Numbers
 
 
@@ -14,6 +15,7 @@ def create_bomb_numers(bomb_count, bomb_range):
             bomb_range_list.add(bomb_num)
 
     return sorted(list(bomb_range_list))
+
 
 # This Function Is For Making A Empty Board
 
