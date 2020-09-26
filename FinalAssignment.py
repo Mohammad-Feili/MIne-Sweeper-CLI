@@ -6,6 +6,7 @@ global external_board
 # This Function Is For Generating Random Numbers
 
 
+
 def create_bomb_numers(bomb_count, bomb_range):
     bomb_range_list = set()
     while len(bomb_range_list) < bomb_count:
@@ -15,6 +16,7 @@ def create_bomb_numers(bomb_count, bomb_range):
 
     return sorted(list(bomb_range_list))
 
+  
 # This Function Is For Making A Empty Board
 
 
