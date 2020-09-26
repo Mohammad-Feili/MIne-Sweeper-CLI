@@ -3,8 +3,8 @@ from random import randint
 global board
 global external_board
 
-# This Function Is For Generating Random Numbers
 
+# This Function Is For Generating Random Numbers
 
 
 def create_bomb_numers(bomb_count, bomb_range):
